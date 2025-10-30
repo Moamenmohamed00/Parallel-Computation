@@ -51,8 +51,7 @@ public class Implement_Code {
         
         System.out.println(".. Main thread close..");
     }
-   
-    
+
 }
 
  class Th extends Thread {
